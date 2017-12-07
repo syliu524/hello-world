@@ -4,6 +4,5 @@ using namespace std;
 
 int main(){
 	std::cout << "hello world, this is my first git project" << std::endl;
-	cout << "1" << endl;
-	cout << "2" << endl;
+	cout << "version1" << endl;
 }
