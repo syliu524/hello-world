@@ -9,4 +9,5 @@ int main(){
 	cout << "now is branch slave" << endl;
 	cout << "now switch and create a new slave branch" << endl;
 	cout << "now slave merged master" << endl;
+	cout << "now is local track branch to remote branch" << endl;
 }
