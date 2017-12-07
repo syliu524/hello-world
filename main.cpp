@@ -10,4 +10,5 @@ int main(){
 	cout << "now switch and create a new slave branch" << endl;
 	cout << "now slave merged master" << endl;
 	cout << "now is local track branch to remote branch" << endl;
+	cout << "now is local to remote" << endl;
 }
