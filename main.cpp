@@ -7,4 +7,6 @@ int main(){
 	cout << "version1" << endl;
 	cout << "version2" << endl;
 	cout << "now is branch slave" << endl;
+	cout << "now switch and create a new slave branch" << endl;
+	cout << "now slave merged master" << endl;
 }
